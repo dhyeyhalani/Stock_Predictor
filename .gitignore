@@ -1,0 +1,23 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# jupyter
+.ipynb_checkpoints/
+
+# keras tuner + saved models
+tuner_logs/
+my_dir/
+*.keras
+*.h5
+
+# data dumps
+*.csv
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/
